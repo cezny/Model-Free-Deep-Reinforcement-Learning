@@ -29,8 +29,9 @@ Atari	w/ ExpReplay 			Pytorch
 
 Usage:
 
-To run our program run the following command-
-python DQN_Implementation.py 		with the following arguments-
+Run the following command-
+
+python `DQN_Implementation.py` with the following arguments-
 								--env=ENVIRONMENT_NAME		-for example- CartPole-v0, MountainCar-v0, SpaceInvaders-v0
 								--render=1 OR 0 			-variable to enable render(1) or not(0)
 								--train=1 OR 0				-variable to train(1) the model or not(0)
