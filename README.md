@@ -8,4 +8,4 @@ Requirements:
 3. PyTorch
 4. Open AI Gym
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
