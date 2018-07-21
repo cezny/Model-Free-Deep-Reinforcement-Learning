@@ -11,13 +11,12 @@ Requirements:
 
 Implementation structure is as follows-
 
-Model	ExpReplay[Y/n]	Env		API
+Model    ExpReplay[Y/n]    Env    API\
 
-Linear	w/o ExpReplay	MC		PyTorch
-					 	          CP 		PyTorch
-
-Linear 	w/ ExpReplay	MC		Keras
-						          CP 		Keras
+Linear    w/o ExpReplay    MC    PyTorch\
+                           CP    PyTorch\
+Linear    w/ ExpReplay     MC    Keras\
+                           CP    Keras\
 
 DQN 	w/ ExpReplay	MC		Keras
 					        	CP 		Keras
