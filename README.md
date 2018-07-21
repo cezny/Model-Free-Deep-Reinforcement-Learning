@@ -9,6 +9,7 @@ Requirements:
 4. Open AI Gym
 
 Sample Results:
+
 ![Alt Text](results/mc.gif)
 ![Alt Text](results/cp.gif)
 
