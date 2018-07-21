@@ -11,7 +11,7 @@ Requirements:
 
 Implementation structure is as follows-
 
-Model &nbsp; &nbsp; ExpReplay[Y/n] &nbsp; &nbsp; Env &nbsp; &nbsp; API\
+Model `` &nbsp; &nbsp;`` ExpReplay[Y/n] &nbsp; &nbsp; Env &nbsp; &nbsp; API
 
 Linear    w/o ExpReplay    MC    PyTorch\
                            CP    PyTorch\
