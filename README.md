@@ -9,26 +9,7 @@ Requirements:
 3. PyTorch
 4. Open AI Gym
 
-Implementation structure is as follows-
-
-Model &nbsp; &nbsp; ExpReplay[Y/n] &nbsp; &nbsp; Env &nbsp; &nbsp; API
-
-Linear &nbsp; &nbsp; w/o ExpReplay &nbsp; &nbsp; MC &nbsp; &nbsp; PyTorch\
-                           CP    PyTorch\
-Linear    w/ ExpReplay     MC    Keras\
-                           CP    Keras\
-
-DQN 	w/ ExpReplay	MC		Keras
-					        	CP 		Keras
-
-Dueling w/ ExpReplay	MC		Keras
-						          CP 		Keras
-
-Atari	w/ ExpReplay 			Pytorch
-
 Usage:
-
-Run the following command-
 
 python `DQN_Implementation.py` with the following arguments-\
 	--env=ENVIRONMENT_NAME    -for example- CartPole-v0, MountainCar-v0, SpaceInvaders-v0 \
