@@ -9,7 +9,7 @@ Requirements:
 4. Open AI Gym
 
 Sample Results:
-https://im.ezgif.com/tmp/ezgif-1-8a6bfb08a3.mp4
+![Alt Text](https://im.ezgif.com/tmp/ezgif-1-8a6bfb08a3.mp4)
 ![Alt Text](results/mc.mp4)
 
 
