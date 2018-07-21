@@ -20,7 +20,7 @@ python `DQN_Implementation.py` with the following arguments-\
 	--model_file=FILE_DIR		-File directory of saved model(Optional). Nothing is done if not given
  
 
-HyperParameters have been sectioned for easy alteration. You should be able to locate them easily by just searching 'Hyper' adn alter them as per your convenience.
+HyperParameters have been sectioned for easy alteration. You should be able to locate them easily by just searching 'Hyper' and alter them as per your convenience.
 
 Sample Results:
 
