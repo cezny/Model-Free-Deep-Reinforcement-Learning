@@ -23,7 +23,6 @@ python `DQN_Implementation.py` with the following arguments-\
 HyperParameters have been sectioned for easy alteration. You should be able to locate them easily by just searching 'Hyper' and alter them as per your convenience.
 
 Sample Results:
-
-| ![MountainCar](results/mc.gif) | ![CartPole](results/cp.gif) |
+| ![CartPole](results/cp.gif) | ![MountainCar](/results/mc.gif) |
 
 
