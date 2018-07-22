@@ -24,7 +24,6 @@ HyperParameters have been sectioned for easy alteration. You should be able to l
 
 Sample Results:
 
-![Alt Text](results/mc.gif)
-![Alt Text](results/cp.gif)
+![Alt Text](results/mc.gif) | ![Alt Text](results/cp.gif)
 
 
