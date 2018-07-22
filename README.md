@@ -11,7 +11,7 @@ Requirements:
 
 Usage:
 
-python `DQN_Implementation.py` with the following arguments-\
+python `DQN_Implementation.py` with the following arguments:
 
 Argument | Description
 --- | --- 
